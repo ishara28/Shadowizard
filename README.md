@@ -4,7 +4,7 @@ lorem
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i shadowizard_ishara28 --save`
 
 
 # Usage

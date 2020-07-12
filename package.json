@@ -1,0 +1,19 @@
+{
+  "name": "shadowizard_ishara28",
+  "version": "1.0.0",
+  "description": "CSS shadow property",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishara28/Shadowizard.git"
+  },
+  "author": "Ishara Shanuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishara28/Shadowizard/issues"
+  },
+  "homepage": "https://github.com/ishara28/Shadowizard#readme"
+}
