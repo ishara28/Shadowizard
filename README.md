@@ -6,7 +6,8 @@ lorem
 
 `npm i shadowizard --save`
 
-Then...
+
+# Usage
 
 
 ```
