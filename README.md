@@ -1,6 +1,6 @@
 # What is this
 
-lorem
+This is a package which gives shadow property to image or set of images
 
 # Installation
 
